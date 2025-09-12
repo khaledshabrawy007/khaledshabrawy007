@@ -40,7 +40,8 @@
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/khaled-shabrawy-97a980275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-shabrawy/)
+97a980275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 📧 **Email:** khalidshabrawy007@gmail.com  
 
 
