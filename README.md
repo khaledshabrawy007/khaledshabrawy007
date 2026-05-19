@@ -10,6 +10,7 @@
 ```
 
 
+
 ### Khaled El Sayed El Shabrawy
 
 `.NET Backend Developer` &nbsp;·&nbsp; `CS Student` &nbsp;·&nbsp; `Backend Enthusiast`
@@ -17,7 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-shabrawy-97a980275)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaledshabrawy007)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khalidshabrawy007@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=sharing)
 
 </div>
 
@@ -70,25 +70,11 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 
 ---
 
-## Resume / CV
-
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=sharing)
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=khaledshabrawy007&theme=dark&hide_border=true&background=0d1117&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" alt="GitHub Streak" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e" alt="Top Languages" />
+*Open to backend roles, collaborations, and interesting problems.*
 
 </div>
-
----
-
-<div align="center">
 
 *Open to backend roles, collaborations, and interesting problems.*
 
