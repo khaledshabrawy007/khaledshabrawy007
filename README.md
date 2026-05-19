@@ -9,6 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
 ```
 
+
 ### Khaled El Sayed El Shabrawy
 
 `.NET Backend Developer` &nbsp;·&nbsp; `CS Student` &nbsp;·&nbsp; `Backend Enthusiast`
@@ -16,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-shabrawy-97a980275)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaledshabrawy007)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khalidshabrawy007@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=sharing)
 
 </div>
 
@@ -36,6 +38,7 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Backend**
 
@@ -64,6 +67,12 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 - Built ASP.NET Core projects with backend logic and SQL Server databases
 - Handled frontend integration alongside server-side development
 - Delivered production-grade features within a real team codebase
+
+---
+
+## Resume / CV
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=sharing)
 
 ---
 
