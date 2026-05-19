@@ -1,48 +1,99 @@
-# Hi 👋, I'm Khaled El Sayed El Shabrawy  
+<div align="center">
 
-🎓 **Computer Science Student** at Misr University for Science and Technology 
-💻 **Aspiring .NET Backend Developer** passionate about building scalable, reliable, and efficient applications.  
-📊 Enthusiastic integrating AI/ML into backend systems.  
+```
+██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
+██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
+█████╔╝ ███████║███████║██║     █████╗  ██║  ██║
+██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
+██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
+```
 
----
+### Khaled El Sayed El Shabrawy
 
-## 📌 Badges
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`.NET Backend Developer` &nbsp;·&nbsp; `CS Student` &nbsp;·&nbsp; `AI/ML Enthusiast`
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-shabrawy-97a980275)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/khaledshabrawy007)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:khalidshabrawy007@gmail.com)
 
-## 🌟 About Me
-- Currently pursuing a **B.Sc. in Information Technology**.  
-- Hands-on experience in **backend development, data structures, algorithms, and version control**.  
-- Strong interest in **.NET ecosystem, software architecture, and cloud-connected applications**.  
-- Currently interning as a **Full Stack .NET Web Developer (DEPI, 2025)**, contributing to ASP.NET Core projects with backend logic, SQL Server databases, and frontend integration.  
+</div>
 
 ---
 
-## 🛠️ Skills
-- **Languages:** C#, C++, Python  
-- **Frameworks & Tools:** ASP.NET Core, Entity Framework, SQL Server, JavaScript, HTML, CSS  
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Version Control (Git)  
-- **Data Science Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+## About
+
+Backend-focused developer building scalable, reliable systems with the .NET ecosystem. Currently interning as a **Full Stack .NET Web Developer at DEPI (2025)** — shipping ASP.NET Core APIs, SQL Server databases, and frontend integrations in production.
+
+Pursuing a **B.Sc. in Information Technology** at Misr University for Science and Technology, with a strong interest in software architecture, clean code principles, and building robust backend systems.
 
 ---
 
-## 💡 Interests
-- Backend development with **C# / ASP.NET Core**  
-- System design, design patterns, and clean architecture  
-- Machine learning applications in web systems  
+## Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-000000?style=flat-square&logo=dotnet&logoColor=white)
+
+**Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-shabrawy-97a980275/)  
-📧 **Email:** khalidshabrawy007@gmail.com  
+## Experience
 
+**Full Stack .NET Web Developer Intern** &nbsp;·&nbsp; *DEPI — 2025*
+- Contributing to ASP.NET Core projects with backend logic and SQL Server databases
+- Handling frontend integration alongside server-side development
+- Working within a production-grade codebase with real deliverables
 
 ---
-✨ *Always eager to learn, collaborate, and build impactful solutions.*
+
+## Projects
+
+> *A few things I've built — more on my [repositories page](https://github.com/khaledshabrawy007?tab=repositories)*
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔧 **[Project Name]** | Short one-line description | C#, ASP.NET Core, SQL Server |
+| 🔧 **[Project Name]** | Short one-line description | .NET, Entity Framework |
+| 🔧 **[Project Name]** | Short one-line description | Python, REST API |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledshabrawy007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to backend roles, collaborations, and interesting problems.*
+
+</div>
