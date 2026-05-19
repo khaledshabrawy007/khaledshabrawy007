@@ -67,19 +67,13 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 
 ---
 
-## CV
-
-📄 **[Download my CV]([YOUR_CV_LINK_HERE](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=sharing))**
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaledshabrawy007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e&icon_color=512BD4" alt="GitHub Stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=khaledshabrawy007&theme=dark&hide_border=true&background=0d1117&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e" alt="Top Languages" />
 
 </div>
 
