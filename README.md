@@ -11,11 +11,11 @@
 
 ### Khaled El Sayed El Shabrawy
 
-`.NET Backend Developer` &nbsp;·&nbsp; `CS Student` &nbsp;·&nbsp; `AI/ML Enthusiast`
+`.NET Backend Developer` &nbsp;·&nbsp; `CS Student` &nbsp;·&nbsp; `Backend Enthusiast`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-shabrawy-97a980275)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/khaledshabrawy007)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:khalidshabrawy007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-shabrawy-97a980275)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaledshabrawy007)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khalidshabrawy007@gmail.com)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## About
 
-Backend-focused developer building scalable, reliable systems with the .NET ecosystem. Currently interning as a **Full Stack .NET Web Developer at DEPI (2025)** — shipping ASP.NET Core APIs, SQL Server databases, and frontend integrations in production.
+Backend-focused developer building scalable, reliable systems with the .NET ecosystem. Recently completed a **Full Stack .NET Web Developer Internship at DEPI (2025)** — shipped ASP.NET Core APIs, SQL Server databases, and frontend integrations in production.
 
 Pursuing a **B.Sc. in Information Technology** at Misr University for Science and Technology, with a strong interest in software architecture, clean code principles, and building robust backend systems.
 
@@ -33,50 +33,43 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Backend**
 
-![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-000000?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Database**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Tools & Workflow**
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=flat-square&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## Experience
 
-**Full Stack .NET Web Developer Intern** &nbsp;·&nbsp; *DEPI — 2025*
-- Contributing to ASP.NET Core projects with backend logic and SQL Server databases
-- Handling frontend integration alongside server-side development
-- Working within a production-grade codebase with real deliverables
+**Full Stack .NET Web Developer Intern** &nbsp;·&nbsp; *DEPI — 2025 (Completed)*
+- Built ASP.NET Core projects with backend logic and SQL Server databases
+- Handled frontend integration alongside server-side development
+- Delivered production-grade features within a real team codebase
 
 ---
 
-## Projects
+## CV
 
-> *A few things I've built — more on my [repositories page](https://github.com/khaledshabrawy007?tab=repositories)*
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔧 **[Project Name]** | Short one-line description | C#, ASP.NET Core, SQL Server |
-| 🔧 **[Project Name]** | Short one-line description | .NET, Entity Framework |
-| 🔧 **[Project Name]** | Short one-line description | Python, REST API |
+📄 **[Download my CV]([YOUR_CV_LINK_HERE](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=drive_link))**
 
 ---
 
@@ -84,9 +77,9 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledshabrawy007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledshabrawy007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e&icon_color=512BD4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e)
 
 </div>
 
