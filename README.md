@@ -1,8 +1,8 @@
 # Hi 👋, I'm Khaled El Sayed El Shabrawy  
 
-🎓 **Information Technology Student** at Misr University for Science and Technology 
+🎓 **Computer Science Student** at Misr University for Science and Technology 
 💻 **Aspiring .NET Backend Developer** passionate about building scalable, reliable, and efficient applications.  
-📊 Enthusiastic about **Data Science** and integrating AI/ML into backend systems.  
+📊 Enthusiastic integrating AI/ML into backend systems.  
 
 ---
 
