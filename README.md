@@ -69,7 +69,7 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 
 ## CV
 
-📄 **[Download my CV]([YOUR_CV_LINK_HERE](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=drive_link))**
+📄 **[Download my CV]([YOUR_CV_LINK_HERE](https://drive.google.com/file/d/1DHMYHbsOy5_gRGHh93HNgqxBJbvNE8X_/view?usp=sharing))**
 
 ---
 
@@ -77,9 +77,9 @@ Pursuing a **B.Sc. in Information Technology** at Misr University for Science an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledshabrawy007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e&icon_color=512BD4)
+<img src="https://github-readme-stats.vercel.app/api?username=khaledshabrawy007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e&icon_color=512BD4" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledshabrawy007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=512BD4&text_color=8b949e" alt="Top Languages" />
 
 </div>
 
